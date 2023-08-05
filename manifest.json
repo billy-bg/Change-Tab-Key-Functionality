@@ -1,0 +1,10 @@
+{
+	"id": "billy-tab-plugin",
+	"name": "Billy's Tab Plugin",
+	"version": "1.11.1",
+	"minAppVersion": "0.15.0",
+	"description": "My custom plugin that attempts to fix the tab key issues",
+	"author": "Billy Ghaida",
+	"authorUrl": "https://github.com/billy-bg",
+	"isDesktopOnly": false
+}
