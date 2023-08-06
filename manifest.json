@@ -1,10 +1,10 @@
 {
-	"id": "billy-tab-plugin",
-	"name": "Billy's Tab Plugin",
-	"version": "1.11.1",
-	"minAppVersion": "0.15.0",
-	"description": "My custom plugin that attempts to fix the tab key issues",
-	"author": "Billy Ghaida",
+	"id": "Change-Tab-Key-Functionality",
+	"name": "Change Tab Key Functionality",
+	"version": "1.0.0",
+	"minAppVersion": "0.0.0",
+	"description": "Plugin that changes the default behaviour of the tab key from 'indent' to 'command+right arrow key'",
+	"author": "billy-bg",
 	"authorUrl": "https://github.com/billy-bg",
 	"isDesktopOnly": false
 }
